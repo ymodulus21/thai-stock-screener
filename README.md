@@ -84,8 +84,8 @@ jupyter notebook thai_stock_screener.ipynb
 > Add your generated charts here for better presentation
 
 ```
-![Fundamental Chart](thai_stock_screener.png)
-![Score Breakdown](thai_stock_scores.png)
+![Fundamental Chart](https://raw.githubusercontent.com/ymodulus21/thai-stock-screener/main/thai_stock_screener.png)
+![Score Breakdown](https://raw.githubusercontent.com/ymodulus21/thai-stock-screener/main/thai_stock_scores.png)
 ```
 
 ---
